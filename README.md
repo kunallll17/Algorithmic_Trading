@@ -254,13 +254,6 @@ Key Python packages (see `requirements.txt` for full list):
 
 This project is part of an Independent Study Project. All code and results are provided for academic purposes.
 
-## Report
 
-The complete research report is available as `report.pdf` (3.5MB) in the project root directory.
-
----
-
-**Last Updated:** 2024
-**Project Status:** Complete and ready for submission
 
 
